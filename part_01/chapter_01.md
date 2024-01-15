@@ -1,21 +1,21 @@
-- [ ] Starting with Linux Shells
-  - [ ] What Is Linux?
-    - [ ] Looking into the Linux kernel
-      - [ ] System memory management
-      - [ ] Software program management
-      - [ ] Hardware management
-      - [ ] Filesystem management
-    - [ ] The GNU utilities
-      - [ ] The core GNU utilities
-      - [ ] The shell
-    - [ ] The Linux desktop environment
-      - [ ] The X Window system
-      - [ ] The KDE desktop
-      - [ ] The GNOME desktop
-      - [ ] The Unity desktop
-      - [ ] Other desktop
-  - [ ]  Linux Distribution
-      - [ ] Core Linux distribution
-      - [ ] Specialized Linux distribution
-      - [ ] The Linux LiveCD
-  - [ ] Summary
+- [x] Starting with Linux Shells
+  - [x] What Is Linux?
+    - [x] Looking into the Linux kernel
+      - [x] System memory management
+      - [x] Software program management
+      - [x] Hardware management
+      - [x] Filesystem management
+    - [x] The GNU utilities
+      - [x] The core GNU utilities
+      - [x] The shell
+    - [x] The Linux desktop environment
+      - [x] The X Window system
+      - [x] The KDE desktop
+      - [x] The GNOME desktop
+      - [x] The Unity desktop
+      - [x] Other desktop
+  - [x]  Linux Distribution
+      - [x] Core Linux distribution
+      - [x] Specialized Linux distribution
+      - [x] The Linux LiveCD
+  - [x] Summary

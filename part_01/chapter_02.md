@@ -1,0 +1,16 @@
+- [ ] Getting to the Shell
+  - [ ] Reaching the Command Line
+    - [ ] Console terminals
+    - [ ] Graphical terminals
+  - [ ] Accessing CLI via a Linux Console Terminal
+  - [ ] Accessing CLI via Graphical Terminal Emulation
+  - [ ] Using the GNOME Terminal Emulator
+    - [ ] Accessing the GNOME terminal
+    - [ ] The menu bar
+  - [ ] Using the Konsole Terminal Emulator
+    - [ ] Accessing the Konsole terminal
+    - [ ] The menu bar
+  - [ ] Using the xterm Terminal Emulator
+    - [ ] Accessing xterm
+    - [ ] Command line parameters
+  - [ ] Summary
