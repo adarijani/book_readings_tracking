@@ -1,5 +1,5 @@
-- [ ] Chapter 01 [Starting with Linux Shells](./chapter_01.md)
-- [ ] Chapter 02 Getting to the Shell
+- [x] Chapter 01 [Starting with Linux Shells](./chapter_01.md)
+- [x] Chapter 02 [Getting to the Shell](./chapter_02.md)
 - [ ] Chapter 03 Basic bash Shell Commands
 - [ ] Chapter 04 More bash Shell Commands
 - [ ] Chapter 05 Understanding the Shell
