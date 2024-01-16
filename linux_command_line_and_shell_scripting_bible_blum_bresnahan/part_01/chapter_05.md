@@ -1,0 +1,15 @@
+[BACK](./part_01.md)
+- [ ] Understanding the Shell
+    - [ ] Exploring Shell Types
+    - [ ] Exploring Parent and Child Shell Relationships
+        - [ ] Looking at process lists
+        - [ ] Creatively using subshells
+            - [ ] Investigating background mode
+            - [ ] Putting process lists into the background
+            - [ ] Looking at co-processing
+    - [ ] Understanding Shell Built-In Commands
+        - [ ] Looking at external commands
+        - [ ] Looking at built-in commands
+            - [ ] Using the history command
+            - [ ] Using command aliases
+    - [ ] Summary

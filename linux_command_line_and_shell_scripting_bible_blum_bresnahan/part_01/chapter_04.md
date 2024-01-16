@@ -1,0 +1,23 @@
+[BACK](./part_01.md)
+- [ ] More `bash` Shell Commands
+  - [ ] Monitoring Programs
+    - [ ] Peeking at the processes
+      - [ ] Unix-style parameters
+      - [ ] BSD-style parameters
+      - [ ] The GNU long parameters
+    - [ ] Real-time process monitoring
+    - [ ] Stopping processes
+      - [ ] The `kill` command
+      - [ ] The `killall` command
+  - [ ] Monitoring Disk Space
+    - [ ] Mounting media
+      - [ ] The `mount` command
+      - [ ] The `unmount` command
+    - [ ] Using the `df` command
+    - [ ] Using the `du` command
+  - [ ] Working with Data Files
+    - [ ] Sorting data
+    - [ ] Searching for data
+    - [ ] Compressing data
+    - [ ] Archiving data
+  - [ ] Summary
