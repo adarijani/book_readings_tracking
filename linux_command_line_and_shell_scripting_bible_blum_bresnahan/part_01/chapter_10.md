@@ -1,1 +1,31 @@
 [BACK](./part_01.md)
+    - [ ] Working with Editors
+        - [ ] Visiting the `vim` Editor
+            - [ ] Checking your `vim` package
+            - [ ] Exploring `vim` basics
+            - [ ] Editing data
+            - [ ] Copying and pasting
+            - [ ] Searching and substituting
+        - [ ] Navigating the `nano` Editor
+        - [ ] Exploring the `emacs` Editor
+            - [ ] Checking your `emacs` package
+            - [ ] Using `emacs` on the console
+                - [ ] Exploring the basics of `emacs`
+                - [ ] Editing data
+                - [ ] Copying and pasting
+                - [ ] Searching and replacing
+                - [ ] Using buffers in `emacs`
+                - [ ] Using windows in console mode emacs
+            - [ ] Using emacs in a GUI
+        - [ ] Exploring the KDE Family of Editors
+            - [ ] Looking at the KWrite editor
+            - [ ] Looking at the Kate editor
+        - [ ] Exploring the GNOME Editor
+            - [ ] Starting `gedit`
+            - [ ] Understanding basic `gedit` features
+            - [ ] Setting preferences
+                - [ ] Setting view preferences
+                - [ ] Setting editor preferences
+                - [ ] Setting font & color preferences
+                - [ ] Managing plug-ins
+    - [ ] Summary

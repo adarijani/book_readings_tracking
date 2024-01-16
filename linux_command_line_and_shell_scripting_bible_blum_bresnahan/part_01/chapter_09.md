@@ -1,1 +1,18 @@
 [BACK](./part_01.md)
+- [x] Installing Software
+  - [x] Package Management Primer
+  - [x] The Debian-Based Systems
+    - [x] Managing packages with `aptitude`
+    - [x] Installing software packages with `aptitude`
+    - [x] Updating software with `aptitude`
+    - [x] Uninstalling software with `aptitude`
+    - [x] The `aptitude` repositories
+  - [x] The Red Hat–Based Systems
+    - [x] Listing installed packages
+    - [x] Installing software with `yum`
+    - [x] Updating software with `yum`
+    - [x] Uninstalling software with `yum`
+    - [x] Dealing with broken dependencies
+    - [x] `yum` repositories
+  - [x] Installing from Source Code
+  - [x] Summary

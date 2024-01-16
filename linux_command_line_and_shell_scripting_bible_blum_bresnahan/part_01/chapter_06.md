@@ -1,1 +1,20 @@
 [BACK](./part_01.md)
+- [ ] Using Linux Environment Variables
+        - [ ] Exploring Environment Variables
+            - [ ] Looking at global environment variables
+            - [ ] Looking at local environment variables
+        - [ ] Setting User-Defined Variables
+            - [ ] Setting local user-defined variables
+            - [ ] Setting global environment variables
+        - [ ] Removing Environment Variables
+        - [ ] Uncovering Default Shell Environment Variables
+        - [ ] Setting the `PATH` Environment Variable
+        - [ ] Locating System Environment Variables
+            - [ ] Understanding the login shell process
+                - [ ] Viewing the `/etc/profile` file
+                - [ ] Viewing the `$HOME` startup files
+            - [ ] Understanding the interactive shell process
+            - [ ] Understanding the non-interactive shell process
+            - [ ] Making environment variables persistent
+        - [ ] Learning about Variable Arrays
+    - [ ] Summary
