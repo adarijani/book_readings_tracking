@@ -1,0 +1,11 @@
+[BACK](./topic_01.md)
+- [ ] Open Source Software and
+    - [ ] Introduction
+        - [ ] Definition of Free and Open Source Software
+        - [ ] Licenses
+        - [ ] Business Models in Open Source
+    - [ ] Guided Exercises
+    - [ ] Explorational Exercises
+    - [ ] Summary
+    - [ ] Answers to Guided Exercises
+    - [ ] Answers to Explorational Exercises

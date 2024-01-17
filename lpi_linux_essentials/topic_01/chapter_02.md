@@ -1,0 +1,18 @@
+[BACK](./topic_01.md)
+- [ ] Major Open Source Applications
+    - [ ] Introduction
+        - [ ] Software Packages
+        - [ ] Package Installation
+        - [ ] Package Removal
+        - [ ] Office Applications
+        - [ ] Web Browsers
+        - [ ] Multimedia
+        - [ ] Server Programs
+        - [ ] Data Sharing
+        - [ ] Network Administration
+        - [ ] Programming Languages
+    - [ ] Guided Exercises
+    - [ ] Explorational Exercises
+    - [ ] Summary
+    - [ ] Answers to Guided Exercises
+    - [ ] Answers to Explorational Exercises
