@@ -1,9 +1,9 @@
-[BACK](./topic_01.md)
-- [ ] Linux Evolution and Popular Operating Systems
+[BACK](../README.md)
+- [ ] Open Source Software and
     - [ ] Introduction
-        - [ ] Distributions
-        - [ ] Embedded Systems
-        - [ ] Linux and the Cloud
+        - [ ] Definition of Free and Open Source Software
+        - [ ] Licenses
+        - [ ] Business Models in Open Source
     - [ ] Guided Exercises
     - [ ] Explorational Exercises
     - [ ] Summary

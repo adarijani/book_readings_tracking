@@ -1,4 +1,4 @@
-[BACK](./part_01.md)
+[BACK](../README.md)
 - [x] Installing Software
   - [x] Package Management Primer
   - [x] The Debian-Based Systems

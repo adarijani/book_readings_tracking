@@ -1,4 +1,4 @@
-[BACK](./part_01.md)
+[BACK](../README.md)
 - [ ] Understanding Linux File Permissions
     - [ ] Linux Security
         - [ ] The `/etc/passwd` file

@@ -1,4 +1,4 @@
-[BACK](./part_01.md)
+[BACK](../README.md)
 - [ ] Managing Filesystems
     - [ ] Exploring Linux Filesystems
         - [ ] Understanding the basic Linux filesystems

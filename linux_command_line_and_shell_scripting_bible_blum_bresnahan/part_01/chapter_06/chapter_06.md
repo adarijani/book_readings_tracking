@@ -1,4 +1,4 @@
-[BACK](./part_01.md)
+[BACK](../README.md)
 - [ ] Using Linux Environment Variables
         - [ ] Exploring Environment Variables
             - [ ] Looking at global environment variables

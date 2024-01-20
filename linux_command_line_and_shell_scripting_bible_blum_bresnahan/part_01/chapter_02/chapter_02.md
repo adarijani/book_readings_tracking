@@ -1,4 +1,4 @@
-[BACK](./part_01.md)
+[BACK](../README.md)
 - [x] Getting to the Shell
   - [x] Reaching the Command Line
     - [x] Console terminals

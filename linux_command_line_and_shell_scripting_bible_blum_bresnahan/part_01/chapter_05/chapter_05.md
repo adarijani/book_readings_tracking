@@ -1,4 +1,4 @@
-[BACK](./part_01.md)
+[BACK](../README.md)
 - [ ] Understanding the Shell
     - [ ] Exploring Shell Types
     - [ ] Exploring Parent and Child Shell Relationships

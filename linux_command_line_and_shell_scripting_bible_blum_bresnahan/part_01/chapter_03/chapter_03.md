@@ -1,0 +1,34 @@
+[BACK](../README.md)
+- [ ] Basic `bash` Shell Commands
+  - [x] Starting the Shell
+  - [x] Using the Shell Prompt
+  - [x] Interacting with the `bash` Manual
+  - [x] Navigating the Filesystem
+    - [x] Looking at the Linux filesystem
+    - [x] Traversing directories
+      - [x] Using absolute directory references
+      - [x] Using relative directory references
+  - [x] Listing Files and Directories
+    - [x] Displaying a basic listing
+    - [x] Displaying a long listing
+    - [x] Filtering listing output
+  - [x] Handling Files
+    - [x] Creating files
+    - [x] Copying files
+    - [x] Using tab auto-complete
+    - [x] Linking files
+    - [x] Renaming files
+    - [x] Deleting files
+  - [x] Managing Directories
+    - [x] Creating directories
+    - [x] Deleting directories
+  - [x] Viewing File Contents
+    - [x] Viewing the file type
+    - [x] Viewing the whole file
+      - [x] Using the `cat` command
+      - [x] Using the `more` command
+      - [x] Using the `less` command
+    - [x] Viewing parts of a file
+      - [x] Using the `tail` command
+      - [x] Using the `head` command
+  - [x] Summary
