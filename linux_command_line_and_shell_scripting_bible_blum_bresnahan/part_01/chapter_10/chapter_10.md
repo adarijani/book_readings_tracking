@@ -1,31 +1,31 @@
 [BACK](../README.md)
-    - [x] Working with Editors
-        - [x] Visiting the `vim` Editor
-            - [x] Checking your `vim` package
-            - [x] Exploring `vim` basics
+- [x] Working with Editors
+    - [x] Visiting the `vim` Editor
+        - [x] Checking your `vim` package
+        - [x] Exploring `vim` basics
+        - [x] Editing data
+        - [x] Copying and pasting
+        - [x] Searching and substituting
+    - [x] Navigating the `nano` Editor
+    - [x] Exploring the `emacs` Editor
+        - [x] Checking your `emacs` package
+        - [x] Using `emacs` on the console
+            - [x] Exploring the basics of `emacs`
             - [x] Editing data
             - [x] Copying and pasting
-            - [x] Searching and substituting
-        - [x] Navigating the `nano` Editor
-        - [x] Exploring the `emacs` Editor
-            - [x] Checking your `emacs` package
-            - [x] Using `emacs` on the console
-                - [x] Exploring the basics of `emacs`
-                - [x] Editing data
-                - [x] Copying and pasting
-                - [x] Searching and replacing
-                - [x] Using buffers in `emacs`
-                - [x] Using windows in console mode emacs
-            - [x] Using emacs in a GUI
-        - [x] Exploring the KDE Family of Editors
-            - [x] Looking at the KWrite editor
-            - [x] Looking at the Kate editor
-        - [x] Exploring the GNOME Editor
-            - [x] Starting `gedit`
-            - [x] Understanding basic `gedit` features
-            - [x] Setting preferences
-                - [x] Setting view preferences
-                - [x] Setting editor preferences
-                - [x] Setting font & color preferences
-                - [x] Managing plug-ins
-    - [x] Summary
+            - [x] Searching and replacing
+            - [x] Using buffers in `emacs`
+            - [x] Using windows in console mode emacs
+        - [x] Using emacs in a GUI
+    - [x] Exploring the KDE Family of Editors
+        - [x] Looking at the KWrite editor
+        - [x] Looking at the Kate editor
+    - [x] Exploring the GNOME Editor
+        - [x] Starting `gedit`
+        - [x] Understanding basic `gedit` features
+        - [x] Setting preferences
+            - [x] Setting view preferences
+            - [x] Setting editor preferences
+            - [x] Setting font & color preferences
+            - [x] Managing plug-ins
+- [x] Summary

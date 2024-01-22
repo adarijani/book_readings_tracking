@@ -1,20 +1,20 @@
 [BACK](../README.md)
-- [ ] Using Linux Environment Variables
-        - [ ] Exploring Environment Variables
-            - [ ] Looking at global environment variables
-            - [ ] Looking at local environment variables
-        - [ ] Setting User-Defined Variables
-            - [ ] Setting local user-defined variables
-            - [ ] Setting global environment variables
-        - [ ] Removing Environment Variables
-        - [ ] Uncovering Default Shell Environment Variables
-        - [ ] Setting the `PATH` Environment Variable
-        - [ ] Locating System Environment Variables
-            - [ ] Understanding the login shell process
-                - [ ] Viewing the `/etc/profile` file
-                - [ ] Viewing the `$HOME` startup files
-            - [ ] Understanding the interactive shell process
-            - [ ] Understanding the non-interactive shell process
-            - [ ] Making environment variables persistent
-        - [ ] Learning about Variable Arrays
-    - [ ] Summary
+- [x] Using Linux Environment Variables
+    - [x] Exploring Environment Variables
+        - [x] Looking at global environment variables
+        - [x] Looking at local environment variables
+    - [x] Setting User-Defined Variables
+        - [x] Setting local user-defined variables
+        - [x] Setting global environment variables
+    - [x] Removing Environment Variables
+    - [x] Uncovering Default Shell Environment Variables
+    - [x] Setting the `PATH` Environment Variable
+    - [x] Locating System Environment Variables
+        - [x] Understanding the login shell process
+            - [x] Viewing the `/etc/profile` file
+            - [x] Viewing the `$HOME` startup files
+        - [x] Understanding the interactive shell process
+        - [x] Understanding the non-interactive shell process
+        - [x] Making environment variables persistent
+    - [x] Learning about Variable Arrays
+    - [x] Summary
