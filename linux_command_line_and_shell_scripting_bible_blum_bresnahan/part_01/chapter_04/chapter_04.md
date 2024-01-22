@@ -1,23 +1,23 @@
 [BACK](../README.md)
-- [ ] More `bash` Shell Commands
-  - [ ] Monitoring Programs
-    - [ ] Peeking at the processes
-      - [ ] Unix-style parameters
-      - [ ] BSD-style parameters
-      - [ ] The GNU long parameters
-    - [ ] Real-time process monitoring
-    - [ ] Stopping processes
-      - [ ] The `kill` command
-      - [ ] The `killall` command
-  - [ ] Monitoring Disk Space
-    - [ ] Mounting media
-      - [ ] The `mount` command
-      - [ ] The `unmount` command
-    - [ ] Using the `df` command
-    - [ ] Using the `du` command
-  - [ ] Working with Data Files
-    - [ ] Sorting data
-    - [ ] Searching for data
-    - [ ] Compressing data
-    - [ ] Archiving data
-  - [ ] Summary
+- [x] More `bash` Shell Commands
+  - [x] Monitoring Programs
+    - [x] Peeking at the processes
+      - [x] Unix-style parameters
+      - [x] BSD-style parameters
+      - [x] The GNU long parameters
+    - [x] Real-time process monitoring
+    - [x] Stopping processes
+      - [x] The `kill` command
+      - [x] The `killall` command
+  - [x] Monitoring Disk Space
+    - [x] Mounting media
+      - [x] The `mount` command
+      - [x] The `unmount` command
+    - [x] Using the `df` command
+    - [x] Using the `du` command
+  - [x] Working with Data Files
+    - [x] Sorting data
+    - [x] Searching for data
+    - [x] Compressing data
+    - [x] Archiving data
+  - [x] Summary

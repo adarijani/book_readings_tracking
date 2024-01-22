@@ -1,15 +1,15 @@
 [BACK](../README.md)
-- [ ] Understanding the Shell
-    - [ ] Exploring Shell Types
-    - [ ] Exploring Parent and Child Shell Relationships
-        - [ ] Looking at process lists
-        - [ ] Creatively using subshells
-            - [ ] Investigating background mode
-            - [ ] Putting process lists into the background
-            - [ ] Looking at co-processing
-    - [ ] Understanding Shell Built-In Commands
-        - [ ] Looking at external commands
-        - [ ] Looking at built-in commands
-            - [ ] Using the history command
-            - [ ] Using command aliases
-    - [ ] Summary
+- [x] Understanding the Shell
+    - [x] Exploring Shell Types
+    - [x] Exploring Parent and Child Shell Relationships
+        - [x] Looking at process lists
+        - [x] Creatively using subshells
+            - [x] Investigating background mode
+            - [x] Putting process lists into the background
+            - [x] Looking at co-processing
+    - [x] Understanding Shell Built-In Commands
+        - [x] Looking at external commands
+        - [x] Looking at built-in commands
+            - [x] Using the history command
+            - [x] Using command aliases
+    - [x] Summary
