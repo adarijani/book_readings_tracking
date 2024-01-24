@@ -1,23 +1,23 @@
 [BACK](../README.md)
-- [ ] Understanding Linux File Permissions
-    - [ ] Linux Security
-        - [ ] The `/etc/passwd` file
-        - [ ] The `/etc/shadow` file
-        - [ ] Adding a new user
-        - [ ] Removing a user
-        - [ ] Modifying a user
-            - [ ] `usermod`
-            - [ ] `passwd` and `chpasswd`
-            - [ ] `chsh`, `chfn`, and `chage`
-    - [ ] Using Linux Groups
-        - [ ] The `/etc/group` file
-        - [ ] Creating new groups
-        - [ ] Modifying groups
-    - [ ] Decoding File Permissions
-        - [ ] Using file permission symbols
-        - [ ] Default file permissions
-    - [ ] Changing Security Settings
-        - [ ] Changing permissions
-        - [ ] Changing ownership
-    - [ ] Sharing Files
-    - [ ] Summary
+- [x] Understanding Linux File Permissions
+    - [x] Linux Security
+        - [x] The `/etc/passwd` file
+        - [x] The `/etc/shadow` file
+        - [x] Adding a new user
+        - [x] Removing a user
+        - [x] Modifying a user
+            - [x] `usermod`
+            - [x] `passwd` and `chpasswd`
+            - [x] `chsh`, `chfn`, and `chage`
+    - [x] Using Linux Groups
+        - [x] The `/etc/group` file
+        - [x] Creating new groups
+        - [x] Modifying groups
+    - [x] Decoding File Permissions
+        - [x] Using file permission symbols
+        - [x] Default file permissions
+    - [x] Changing Security Settings
+        - [x] Changing permissions
+        - [x] Changing ownership
+    - [x] Sharing Files
+    - [x] Summary

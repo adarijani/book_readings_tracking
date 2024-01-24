@@ -1,32 +1,32 @@
 [BACK](../README.md)
-- [ ] Managing Filesystems
-    - [ ] Exploring Linux Filesystems
-        - [ ] Understanding the basic Linux filesystems
-            - [ ] Looking at the ext filesystem
-            - [ ] Looking at the ext2 filesystem
-        - [ ] Understanding journaling filesystems
-            - [ ] Looking at the ext3 filesystem
-            - [ ] Looking at the ext4 filesystem
-            - [ ] Looking at the Reiser filesystem
-            - [ ] Looking at the journaled filesystem
-            - [ ] Looking at the XFS filesystem
-        - [ ] Understanding the copy-on-write filesystems
-            - [ ] Looking at the ZFS filesystem
-            - [ ] Looking at the Btrfs filesystem
-    - [ ] Working with Filesystems
-        - [ ] Creating partitions
-        - [ ] Creating a filesystem
-        - [ ] Checking and repairing a filesystem
-    - [ ] Managing Logical Volumes
-        - [ ] Exploring logical volume management layout
-        - [ ] Using the LVM in Linux
-            - [ ] Taking a snapshot
-            - [ ] Striping
-            - [ ] Mirroring
-        - [ ] Using the Linux LVM
-            - [ ] Defining physical volumes
-            - [ ] Creating volume groups
-            - [ ] Creating logical volumes
-            - [ ] Creating the filesystem
-            - [ ] Modifying the LVM
-    - [ ] Summary
+- [x] Managing Filesystems
+    - [x] Exploring Linux Filesystems
+        - [x] Understanding the basic Linux filesystems
+            - [x] Looking at the ext filesystem
+            - [x] Looking at the ext2 filesystem
+        - [x] Understanding journaling filesystems
+            - [x] Looking at the ext3 filesystem
+            - [x] Looking at the ext4 filesystem
+            - [x] Looking at the Reiser filesystem
+            - [x] Looking at the journaled filesystem
+            - [x] Looking at the XFS filesystem
+        - [x] Understanding the copy-on-write filesystems
+            - [x] Looking at the ZFS filesystem
+            - [x] Looking at the Btrfs filesystem
+    - [x] Working with Filesystems
+        - [x] Creating partitions
+        - [x] Creating a filesystem
+        - [x] Checking and repairing a filesystem
+    - [x] Managing Logical Volumes
+        - [x] Exploring logical volume management layout
+        - [x] Using the LVM in Linux
+            - [x] Taking a snapshot
+            - [x] Striping
+            - [x] Mirroring
+        - [x] Using the Linux LVM
+            - [x] Defining physical volumes
+            - [x] Creating volume groups
+            - [x] Creating logical volumes
+            - [x] Creating the filesystem
+            - [x] Modifying the LVM
+    - [x] Summary
