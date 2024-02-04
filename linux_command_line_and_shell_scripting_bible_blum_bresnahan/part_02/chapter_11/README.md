@@ -1,0 +1,23 @@
+[BACK](../README.md)
+- [x] Basic Script Building
+  - [x] Using Multiple Commands
+  - [x] Creating a Script File
+  - [x] Displaying Messages
+  - [x] Using Variables
+    - [x] Environment variables
+    - [x] User variables
+    - [x] Command substitution
+  - [x] Redirecting Input and Output
+    - [x] Output redirection
+    - [x] Input redirection
+  - [x] Pipes
+  - [x] Performing Math
+    - [x] The expr command
+    - [x] Using brackets
+    - [x] A floating-point solution
+    - [x] The basics of bc
+    - [x] Using bc in scripts
+  - [x] Exiting the Script
+    - [x] Checking the exit status
+    - [x] The exit command
+  - [x] Summary

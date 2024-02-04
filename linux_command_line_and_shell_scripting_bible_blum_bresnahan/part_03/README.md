@@ -1,1 +1,8 @@
 [BACK](../README.md)
+- [ ] Chapter 17: [Creating Functions](./chapter_17/README.md)
+- [ ] Chapter 18: [Writing Scripts for Graphical Desktops](./chapter_18/README.md)
+- [ ] Chapter 19: [Introducing `sed` and `gawk`](./chapter_19/README.md)
+- [ ] Chapter 20: [Regular Expressions](./chapter_20/README.md)
+- [ ] Chapter 21: [Advanced `sed`](./chapter_21/README.md)
+- [ ] Chapter 22: [Advanced `gawk`](./chapter_22/README.md)
+- [ ] Chapter 23: [Working with Alternative Shells](./chapter_23/README.md)
