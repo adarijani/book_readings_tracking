@@ -1,0 +1,15 @@
+[BACK](../README.md)
+- [ ] Professionalism
+- [ ] Saying No
+- [ ] Sayign Yes
+- [ ] Coding
+- [x] Test Driven Development
+- [ ] Practicing
+- [x] Acceptance Testing
+- [x] Testing Strategies
+- [ ] Time Management
+- [ ] Estimation
+- [ ] Collaboration
+- [ ] Teams and Projects
+- [ ] Mentoring, Apperenticeship, and Craftsmanship 
+- [ ] Appendix A: Tooling

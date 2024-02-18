@@ -1,1 +1,29 @@
 [BACK](../README.md)
+- [ ] Presenting Data
+  - [ ] Understanding Input and Output
+    - [ ] Standard file descriptors
+      - [ ] STDIN
+      - [ ] STDOUT
+      - [ ] STDERR
+    - [ ] Redirecting errors
+      - [ ] Redirecting errors only
+      - [ ] Redirecting errors and data
+  - [ ] Redirecting Output in Scripts
+    - [ ] Temporary redirections
+    - [ ] Permanent redirections
+  - [ ] Redirecting Input in Scripts
+  - [ ] Creating Your Own Redirection
+    - [ ] Creating output file descriptors
+    - [ ] Redirecting file descriptors
+    - [ ] Creating input file descriptors
+    - [ ] Creating a read/write file descriptor
+    - [ ] Closing file descriptors
+  - [ ] Listing Open File Descriptors
+  - [ ] Suppressing Command Output
+  - [ ] Using Temporary Files
+    - [ ] Creating a local temporary file
+    - [ ] Creating a temporary fi le in /tmp
+    - [ ] Creating a temporary directory
+  - [ ] Logging Messages
+  - [ ] Practical Example
+  - [ ] Summary

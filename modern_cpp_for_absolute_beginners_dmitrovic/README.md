@@ -1,0 +1,48 @@
+[BACK](../README.md)
+- [x] Chapter 01: Introduction
+- [x] Chapter 02: What us C++?
+- [x] Chapter 03: C++ Compilers
+- [x] Chapter 04: Our First Program
+- [x] Chapter 05: Types
+- [x] Chapter 06: Exercises
+- [x] Chapter 07: Operators
+- [x] Chapter 08: Standard Input
+- [x] Chapter 09: Exercises
+- [x] Chapter 10: Arrays
+- [x] Chapter 11: Pointers
+- [ ] Chapter 12: References
+- [ ] Chapter 13: Introduction to Strings
+- [ ] Chapter 14: Automatic Type Deduction
+- [ ] Chapter 15: Exercises
+- [ ] Chapter 16: Statements
+- [ ] Chapter 17: Constants
+- [ ] Chapter 18: Exercises
+- [ ] Chapter 19: Functions
+- [ ] Chapter 20: Exercises
+- [ ] Chapter 21: Scope and Lifetime
+- [ ] Chapter 22: Exercises
+- [ ] Chapter 23: Classes - Introduction
+- [ ] Chapter 24: Exercises
+- [ ] Chapter 25: Classes - Inheritance and Polymophism
+- [ ] Chapter 26: Exercises
+- [ ] Chapter 27: The static Specifier
+- [ ] Chapter 28: Templates
+- [ ] Chapter 29: Enumeriations
+- [ ] Chapter 30: Exercises
+- [ ] Chapter 31: Organizing Code
+- [ ] Chapter 32: Exercises
+- [ ] Chapter 33: Conversions
+- [ ] Chapter 34: Exceptions
+- [ ] Chapter 35: Smart Pointers
+- [ ] Chapter 36: Exercises
+- [ ] Chapter 37: Input/Output Streams
+- [ ] Chapter 38: C++ Standard Library and Friends
+- [ ] Chapter 39: Exercises
+- [ ] Chapter 40: C++ Standards
+- [ ] Chapter 41: Projects
+    - [x] Project I: Book Inventory
+    - [x] Project II: Book Inventory – Multiple Files
+    - [ ] Project III: Message Logger
+    - [ ] Project IV: Message Logger – Multiple Files
+    - [ ] Project V: Information System
+    - [ ] Project VI: Information System – Multiple Files

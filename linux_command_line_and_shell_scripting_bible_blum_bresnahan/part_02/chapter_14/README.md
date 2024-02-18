@@ -1,1 +1,26 @@
 [BACK](../README.md)
+- [ ] Handling User Input
+  - [ ] Passing Parameters
+    - [ ] Reading parameters
+    - [ ] Reading the script name
+    - [ ] Testing parameters
+  - [ ] Using Special Parameter Variables
+    - [ ] Counting parameters
+    - [ ] Grabbing all the data
+  - [ ] Being Shifty
+  - [ ] Working with Options
+    - [ ] Finding your options
+      - [ ] Processing simple options
+      - [ ] Separating options from parameters
+      - [ ] Processing options with values
+    - [ ] Using the getopt command
+      - [ ] Looking at the command format
+      - [ ] Using getopt in your scripts
+    - [ ] Advancing to getopts
+  - [ ] Standardizing Options
+  - [ ] Getting User Input
+    - [ ] Reading basics
+    - [ ] Timing out
+    - [ ] Reading with no display
+    - [ ] Reading from a file
+- [ ] Summary

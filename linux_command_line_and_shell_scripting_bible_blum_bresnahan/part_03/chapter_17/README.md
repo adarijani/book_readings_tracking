@@ -1,1 +1,30 @@
-[BACK](./part_03.md)
+[BACK](../README.md)
+- [ ] Creating Functions
+  - [ ] Basic Script Functions
+    - [ ] Creating a function
+    - [ ] Using functions
+  - [ ] Returning a Value
+    - [ ] The default exit status
+    - [ ] Using the return command
+    - [ ] Using function output
+  - [ ] Using Variables in Functions
+    - [ ] Passing parameters to a function
+    - [ ] Handling variables in a function
+      - [ ] Global variables
+      - [ ] Local variables
+  - [ ] Array Variables and Functions
+    - [ ] Passing arrays to functions
+    - [ ] Returning arrays from functions
+  - [ ] Function Recursion
+  - [ ] Creating a Library
+  - [ ] Using Functions on the Command Line
+    - [ ] Creating functions on the command line
+    - [ ] Defining functions in the .bashrc file
+      - [ ] Directly defining functions
+      - [ ] Sourcing function files
+  - [ ] Following a Practical Example
+    - [ ] Downloading and installing
+    - [ ] Building the library
+    - [ ] The shtool library functions
+    - [ ] Using the library
+  - [ ] Summary

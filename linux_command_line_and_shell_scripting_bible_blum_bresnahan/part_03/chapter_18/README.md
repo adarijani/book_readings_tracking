@@ -1,1 +1,26 @@
-[BACK](./part_03.md)
+[BACK](../README.md)
+- [ ] Writing Scripts for Graphical Desktops
+  - [ ] Creating Text Menus
+    - [ ] Create the menu layout
+    - [ ] Create the menu functions
+    - [ ] Add the menu logic
+    - [ ] Putting it all together
+    - [ ] Using the select command
+  - [ ] Doing Windows
+    - [ ] The dialog package
+      - [ ] The msgbox widget
+      - [ ] The yesno widget
+      - [ ] The inputbox widget
+      - [ ] The textbox widget
+      - [ ] The menu widget
+      - [ ] The fselect widget
+    - [ ] The dialog options
+    - [ ] Using the dialog command in a script
+  - [ ] Getting Graphic
+    - [ ] The KDE environment
+      - [ ] kdialog widgets
+      - [ ] Using kdialog
+    - [ ] The GNOME environment
+      - [ ] zenity widgets
+      - [ ] Using zenity in scripts
+  - [ ] Summary

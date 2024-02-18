@@ -1,0 +1,12 @@
+[BACK](../README.md)
+- [x] Introduction to Algorithms 
+- [x] Selection Sort
+- [ ] Recursion
+- [ ] Quicksort 
+- [ ] Hash Tables
+- [ ] Breadth-First Search
+- [ ] Dijkstra's Algorithm
+- [ ] Greedy Algorithm
+- [ ] Dynamic Programming
+- [ ] K_Nearest Neighbors
+- [ ] Where to Go Next

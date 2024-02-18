@@ -15,9 +15,9 @@
     - [x] The expr command
     - [x] Using brackets
     - [x] A floating-point solution
-    - [x] The basics of bc
+    - [x] The basics of `bc`
     - [x] Using bc in scripts
   - [x] Exiting the Script
     - [x] Checking the exit status
-    - [x] The exit command
+    - [x] The `exit` command
   - [x] Summary

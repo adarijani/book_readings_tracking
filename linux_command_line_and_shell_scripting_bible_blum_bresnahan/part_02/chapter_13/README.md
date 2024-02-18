@@ -1,1 +1,29 @@
 [BACK](../README.md)
+- [ ] More Structured Commands
+  - [ ] The for Command
+    - [ ] Reading values in a list
+    - [ ] Reading complex values in a list
+    - [ ] Reading a list from a variable
+    - [ ] Reading values from a command
+    - [ ] Changing the field separator
+    - [ ] Reading a directory using wildcards
+  - [ ] The C-Style for Command
+    - [ ] The C language for command
+    - [ ] Using multiple variables
+  - [ ] The while Command
+    - [ ] Basic while format
+    - [ ] Using multiple test commands
+  - [ ] The until Command
+  - [ ] Nesting Loops
+  - [ ] Looping on File Data
+  - [ ] Controlling the Loop
+    - [ ] The break command
+      - [ ] Breaking out of a single loop
+      - [ ] Breaking out of an inner loop
+      - [ ] Breaking out of an outer loop
+    - [ ] The continue command
+  - [ ] Processing the Output of a Loop
+  - [ ] Practical Examples
+    - [ ] Finding executable files
+    - [ ] Creating multiple user accounts
+  - [ ] Summary

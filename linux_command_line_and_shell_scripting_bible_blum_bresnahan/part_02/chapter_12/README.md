@@ -1,1 +1,28 @@
 [BACK](../README.md)
+- [ ] Using Structured Commands
+  - [ ] Working with the `if`-`then` Statement
+  - [ ] Exploring the `if`-`then`-`else` Statement
+  - [ ] Nesting `if`s
+  - [ ] Trying the `test`` Command
+    - [ ] Using numeric comparisons
+    - [ ] Using string comparisons
+      - [ ] Looking at string equality
+      - [ ] Looking at string order
+      - [ ] Looking at string size
+    - [ ] Using file comparisons
+      - [ ] Checking directories
+      - [ ] Checking whether an object exists
+      - [ ] Checking for a file
+      - [ ] Checking for read access
+      - [ ] Checking for empty files
+      - [ ] Checking whether you can write to a file
+      - [ ] Checking whether you can run a file
+      - [ ] Checking ownership
+      - [ ] Checking default group membership
+      - [ ] Checking file date
+  - [ ] Considering Compound Testing
+  - [ ] Working with Advanced `if`-`then` Features
+    - [ ] Using double parentheses
+    - [ ] Using double brackets
+  - [ ] Considering the `case` Command
+  - [ ] Summary
